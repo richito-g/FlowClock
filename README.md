@@ -1,16 +1,12 @@
-# countdown_timer
+# Flow Clock
 
-A new Flutter project.
+Flow Clock is your go-to timer app for all your time management needs. Whether you're cooking, working out, or studying, Flow Clock makes it easy to set custom timers and save your favorite presets for repeated use.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+Create custom timers with just a few taps.
+Save and organize preset timers for future use.
+Simple and intuitive design for quick, hassle-free use.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/aa6f9600-ffc6-440b-9bc5-4d61851e96c5)
+![image](https://github.com/user-attachments/assets/942798e4-0a3d-484e-8771-402ef0712fc2)
